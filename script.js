@@ -6,3 +6,4 @@ function toggleMode() {
     html.classList.add("light")
   }
 }
+

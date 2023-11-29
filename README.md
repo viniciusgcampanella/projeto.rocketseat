@@ -14,7 +14,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="License" src="./assets/Screenshot_2.png">
+  <img alt="License-2" src="./assets/Screenshot_2.png">
 </p>
 
 <br>

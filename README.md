@@ -13,11 +13,10 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <img alt="License" src="./assets/Screenshot_1.png">
 </p>
 
-<p align="center">
-  <img alt="foto2" src="./assets/Screenshot_2.png">
-</p>
-
 <br>
+<p align="center">
+  <img alt="foto2" src="./assets/Screenshot_1.png">
+</p>
 
 ## 🚀 Tecnologias
 
